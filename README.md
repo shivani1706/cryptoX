@@ -1,4 +1,4 @@
-Link: https://crypto-x-one.vercel.app/coins
+Link: https://crypto-x-one.vercel.app/
 
 # Getting Started with Create React App
 
