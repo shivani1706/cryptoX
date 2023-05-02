@@ -1,5 +1,7 @@
 Link: https://crypto-x-one.vercel.app/
 
+# CRYPTOX
+----
 A website made by using react and CoinGecko Api which fetches different types of coins and exchanges along with real time updates
 
 Cryptox is a comprehensive cryptocurrency project that leverages the CoinGecko API to fetch real-time data on various types of coins. With its intuitive user interface, the platform allows users to view coins according to their current ranking, price in different currencies, and graphical representation of value changes over time. The site also provides information on various exchanges, making it a one-stop solution for all things crypto.
